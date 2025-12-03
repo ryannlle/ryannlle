@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋 I'm Ryan Le
 
-<!--
-**ryannlle/ryannlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+I am a Management Information Systems major with a Computer Science and Statistics background at San Diego State University. My primary focus is on artificial intelligence, machine learning, and building data-driven systems that solve real problems with clarity, scalability, and impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- **MNTR** – A mentor-matching and scheduling platform built during the Innovate 4 SDSU Hackathon. I worked on database design, backend logic, and role-based workflows to support booking, matching, and availability.
+- **Malicious URL Detection** – A machine learning project developing a feed-forward neural network (MLP) that uses engineered lexical features to classify malicious vs. benign URLs.
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+- Python  
+- Java  
+- SQL  
+- HTML  
+- CSS  
+
+### **Machine Learning & AI**
+- scikit-learn  
+- Pandas  
+- NumPy  
+- PyTorch  
+- YOLOv8  
+
+### **Data Engineering & Databases**
+- PostgreSQL  
+- SQLite  
+- Microsoft Fabric  
+- Data modeling and relational schema design  
+
+### **Backend & Web Development**
+- Django  
+- Flask  
+- Node.js  
+- REST API design  
+
+### **Cloud & Infrastructure**
+- Azure  
+- AWS  
+- Docker  
+- Git  
+- GitHub  
+- Version control workflows  
+
+### **Data Visualization**
+- Power BI  
+- Matplotlib  
+- Seaborn  
+
+
+---
+
+## 📫 Thanks for Visiting!
+Always learning, always building. Feel free to explore my repositories to see what I’ve been working on recently.
