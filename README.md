@@ -25,13 +25,16 @@ I am a Management Information Systems major with a Computer Science and Statisti
 - Pandas  
 - NumPy  
 - PyTorch  
-- YOLOv8  
+- YOLOv8
+- Hugging Face
 
-### **Data Engineering & Databases**
+### **Data Visualization & Databases**
 - PostgreSQL  
 - SQLite  
 - Microsoft Fabric  
-- Data modeling and relational schema design  
+- Power BI  
+- Matplotlib  
+- Seaborn  
 
 ### **Backend & Web Development**
 - Django  
@@ -39,18 +42,10 @@ I am a Management Information Systems major with a Computer Science and Statisti
 - Node.js  
 - REST API design  
 
-### **Cloud & Infrastructure**
-- Azure  
-- AWS  
-- Docker  
+### **Version Control**
+- Azure DevOps
 - Git  
-- GitHub  
-- Version control workflows  
-
-### **Data Visualization**
-- Power BI  
-- Matplotlib  
-- Seaborn  
+- GitHub   
 
 
 ---
