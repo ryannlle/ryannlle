@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ryan Le
 
 ## 🧑‍💻 About Me
-I am a Management Information Systems major with a Computer Science and Statistics background at San Diego State University. My primary focus is on artificial intelligence, machine learning, and building data-driven systems that solve real problems with clarity, scalability, and impact.
+I am a Management Information Systems major with a Computer Science minor at San Diego State University. My primary focus is on artificial intelligence, machine learning, and building data-driven systems that solve real problems with clarity, scalability, and impact.
 
 ---
 
