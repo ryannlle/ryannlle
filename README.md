@@ -5,7 +5,7 @@ I am a Management Information Systems major with a Computer Science minor at San
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Recent/Current Work
 - **MNTR** – A mentor-matching and scheduling platform built during the Innovate 4 SDSU Hackathon. I worked on database design, backend logic, and role-based workflows to support booking, matching, and availability.
 - **Malicious URL Detection** – A machine learning project developing a feed-forward neural network (MLP) that uses engineered lexical features to classify malicious vs. benign URLs.
 
@@ -50,5 +50,4 @@ I am a Management Information Systems major with a Computer Science minor at San
 
 ---
 
-## 📫 Thanks for Visiting!
-Always learning, always building. Feel free to explore my repositories to see what I’ve been working on recently.
+##  Thanks for Visiting!
