@@ -6,7 +6,7 @@ I am a Management Information Systems major with a Computer Science minor at San
 ---
 
 ## 🚀 Recent/Current Work
-- **MNTR** – A mentor-matching and scheduling platform built during the Innovate 4 SDSU Hackathon. I worked on database design, backend logic, and role-based workflows to support booking, matching, and availability.
+- **AgentCode** – A multi-agent LLM framework for detecting and classifying hallucinations in AI-generated code, using a Leader–Worker agent architecture to analyze code at the block level, validate behavior against specifications and test cases, and label errors using the CodeHalu taxonomy (**Scope of project may be subject to change relative to potential sponsorship focus**).
 - **Malicious URL Detection** – A machine learning project developing a feed-forward neural network (MLP) that uses engineered lexical features to classify malicious vs. benign URLs.
 
 ---
