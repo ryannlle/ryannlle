@@ -1,53 +1,57 @@
 # Hi 👋 I'm Ryan Le
 
 ## 🧑‍💻 About Me
-I am a Management Information Systems major with a Computer Science minor at San Diego State University. My primary focus is on artificial intelligence, machine learning, and building data-driven systems that solve real problems with clarity, scalability, and impact.
+I'm a Management Information Systems major with a Computer Science minor at San Diego State University. My work focuses on artificial intelligence, machine learning, and building data-driven systems that solve real problems with clarity, scalability, and impact. Currently an AI4Business Research Assistant at the SDSU Research Foundation and incoming Applied Machine Learning Intern at Realty Income.
+
+🌐 [ryanle.vercel.app](https://ryanle.vercel.app)
 
 ---
 
 ## 🚀 Recent/Current Work
-- **AgentCode** – A multi-agent LLM framework for detecting and classifying hallucinations in AI-generated code, using a Leader–Worker agent architecture to analyze code at the block level, validate behavior against specifications and test cases, and label errors using the CodeHalu taxonomy (**Scope of project may be subject to change relative to potential sponsorship focus**).
-- **Malicious URL Detection** – A machine learning project developing a feed-forward neural network (MLP) that uses engineered lexical features to classify malicious vs. benign URLs.
+- **HPC-Eval** – Developing a synthetically generated benchmark of HPC coding tasks spanning 4 mathematical domains across 3 difficulty tiers, designed to evaluate LLM-generated C++, Julia, and Fortran code for correctness and hallucinations using CodeBLEU, TSED, Pass@K, and runtime performance metrics.
+- **Malicious URL Detection** – Built an MLP feed-forward neural network achieving 0.92 weighted F1-score on 128,224 URLs for 4-class malicious URL classification using structural and lexical feature engineering.
 
 ---
 
 ## 💻 Tech Stack
 
 ### **Languages**
-- Python  
-- Java  
-- SQL  
-- HTML  
-- CSS  
+- Python
+- Java
+- C++
+- SQL
+- HTML/CSS
+- DAX
 
 ### **Machine Learning & AI**
-- scikit-learn  
-- Pandas  
-- NumPy  
-- PyTorch  
+- scikit-learn
+- Pandas
+- NumPy
+- PyTorch
 - YOLOv8
 - Hugging Face
+- SARIMAX
 
-### **Data Visualization & Databases**
-- PostgreSQL  
-- SQLite  
-- Microsoft Fabric  
-- Power BI  
-- Matplotlib  
-- Seaborn  
+### **Data & Analytics**
+- PostgreSQL
+- SQLite
+- Microsoft Fabric
+- Power BI
+- Google Cloud / BigQuery
+- Matplotlib
+- Seaborn
 
 ### **Backend & Web Development**
-- Django  
-- Flask  
-- Node.js  
-- REST API design  
+- Django
+- Flask
+- REST API Design
 
-### **Version Control**
+### **Version Control & Tools**
+- Git
+- GitHub
 - Azure DevOps
-- Git  
-- GitHub   
-
+- VS Code
 
 ---
 
-##  Thanks for Visiting!
+## Thanks for Visiting!
